@@ -43,7 +43,6 @@ nav a{
 }
 
 
-
 .title{
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
@@ -51,8 +50,11 @@ nav a{
 }
 
 .bigLinks{
-    font: outline;
-    font-size: 70px;
-    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bigLinks img{
+    size: 50 px;
 }
 
