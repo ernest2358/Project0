@@ -44,7 +44,7 @@ li{
 nav a{
     width: 100px;
     display: block;
-    padding: 35px 15px;
+    padding: 30px 15px;
     text-decoration: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: lawngreen;
@@ -63,7 +63,50 @@ nav a{
     margin-right: auto;
 }
 
-.bigLinks img{
-    size: 50 px;
+.bigLinks a{
+    height:50 px;
+    width: 50px;
+    max-width: 100%;
+    max-height: 100%;
 }
 
+.bigLinks img{
+    height:28px;
+    width: 28px;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.yeezy{
+    height:245px;
+    width: auto;
+    max-width: 100%;
+    max-height: 100%;
+    padding: 3%;
+}
+
+.drake{
+    height:245px;
+    width: auto;
+    max-width: 100%;
+    max-height: 100%;
+    padding: 3%;
+}
+
+.turks{
+    height:245px;
+    width: auto;
+    max-width: 100%;
+    max-height: 100%;
+    padding: 3%;
+}
+
+.DooW{
+    max-width: 100%;
+    max-height: 100%;
+    position: center;
+    padding: 5%;
+    margin-bottom: -70px;
+    margin-top: -70px;
+
+}
